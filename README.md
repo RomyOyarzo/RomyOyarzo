@@ -1,4 +1,4 @@
-Hola! 👋 Soy Romina
+Hola! 👋 Soy Romina,
 Contadora Pública dando mis primeros pasos en IT. 
 Tester Manual trainee, comenzando mi primero proyecto; y actualmente estudiando programación inicial en Codo a Codo.
 
